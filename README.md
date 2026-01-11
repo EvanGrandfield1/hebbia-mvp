@@ -22,12 +22,6 @@ npm install
 npm run dev
 ```
 
-or via Docker 
-```
-docker build -t search-mvp .
-docker run -p 3000:3000 --env-file .env search-mvp
-```
-
 First, run the development server:
 
 Open [http://localhost:3000](http://localhost:3000/projects) with your browser to see the result.
