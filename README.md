@@ -30,5 +30,5 @@ npm run dev
 
 First, run the development server:
 
-Open [http://localhost:3000](http://localhost:3000/projects) with your browser to see the result.
+Open [http://localhost:3000/projects](http://localhost:3000/projects) with your browser to see the result.
 
