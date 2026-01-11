@@ -14,7 +14,13 @@ This project implements a hybrid semantic + keyword RAG search system using:
 
 ## 🔧 Setup
 
-1. Copy `.env.example` → `.env` and fill in your keys.
+1. Create .env.local rile in root directory in this format 
+```
+NEXT_PUBLIC_SUPABASE_URL="<YOU SUPPLY>"
+NEXT_PUBLIC_SUPABASE_ANON_KEY="<YOU SUPPLY>"
+OPENAI_API_KEY="<YOU SUPPLY>"
+```
+
 2. Run locally:
 
 ```bash
